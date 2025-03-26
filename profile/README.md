@@ -1,7 +1,6 @@
 # ReKnew AI - Powering Intelligent Enterprises with AI & Automation
 
-![ReKnew AI](![image](https://github.com/user-attachments/assets/57736010-5bb5-427b-a001-04136bf7aade)
-)  
+![ReKnew AI](https://reknew.ai/Light.png)  
 
 ## 🚀 About ReKnew
 ReKnew is an AI-powered platform designed to help enterprises **optimize operations, automate workflows, and drive intelligent decision-making**. Our scalable and data-driven solutions integrate seamlessly into your business ecosystem, enabling faster, smarter, and more efficient operations.
